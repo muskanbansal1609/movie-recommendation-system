@@ -40,6 +40,10 @@ The given recommender system would recommend 5 top items to the user based on th
 
 ## OUTPUT:
 
-![Screenshot (960)](https://user-images.githubusercontent.com/68641946/183240386-1e3403a6-602d-4e2e-8b86-e9fa3fb61ae0.png)
+![Screenshot (960)](https://user-images.githubusercontent.com/68641946/183240421-9a7a3ec0-f434-4115-9378-992be475ec37.png)
+
+![Screenshot (972)](https://user-images.githubusercontent.com/68641946/183240473-ad114be4-cac8-4370-a79c-8d73ab0b06b0.png)
+
+![Screenshot (973)](https://user-images.githubusercontent.com/68641946/183240480-4dbbf080-0f10-4e5d-a07b-f13ffbfcd02a.png)
 
 
